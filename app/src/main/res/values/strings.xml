@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Daily Goal</string>
+    <string name="appwidget_text" translatable="false">Daily Goal</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <string name="configure" translatable="false">Add Daily Goal</string>
+    <string name="app_logo" translatable="false">logo</string>
+    <string name="welcome_message" translatable="false">Welcome to DailyGoal!</string>
+    <string name="description_message" translatable="false">Get started by setting your goals.</string>
+    <string name="get_started_button" translatable="false">Get Strated</string>
+    <string name="set_timer_button" translatable="false">Set Timer</string>
+    <string name="title" translatable="false">Goal Title</string>
+    <string name="description" translatable="false">Goal Description</string>
+    <string name="add_button" translatable="false">Add</string>
+    <string name="update_button" translatable="false">Update</string>
+    <string name="read_button" translatable="false">Read</string>
+    <string name="delete_all_button" translatable="false">Delete All</string>
+    <string name="sec_time_left" translatable="false">sec time left</string>
+    <string name="add_timer_button" translatable="false">Add Timer</string>
+    <string name="increase_time" translatable="false">+15s</string>
+    <string name="reset_timer" translatable="false">Reset Timer</string>
+    <string name="start_button" translatable="false">Start</string>
+</resources>
+
+
+
